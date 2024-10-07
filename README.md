@@ -1,2 +1,2 @@
 # tifToIMGConverter
-Convert .tif files to images
+Convert .tif files using Pillow and .cdr files using Inkspace to images
